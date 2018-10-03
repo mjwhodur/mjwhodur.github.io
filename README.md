@@ -1,3 +1,7 @@
+# Resumé
+
+This resume is property of Michal Jozef Weglowski-Hodur. If you would like to view information about me, please visit my GitHub.io website at [https://mjwhodur.github.io].
+
 # PanelCV
 
 This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)

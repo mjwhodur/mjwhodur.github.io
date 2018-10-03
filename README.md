@@ -21,3 +21,7 @@ Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 # Author
 
 - [Locky](https://github.com/junlulocky)
+
+# Thanks
+
+Many thanks to [Locky](https://github.com/junlulocky) for creating this awesome theme. 
